@@ -25,7 +25,7 @@ Architecture Change
 
 The media environment is now separated from the primary infrastructure services.
 
-'''text
+```text
 pve1
 │
 ├── services01
@@ -42,6 +42,7 @@ pve1
 └── media01 (VM)
     ├── Jellyfin
     └── ErsatzTV
+```
 
 Why
 
