@@ -25,6 +25,7 @@ Architecture Change
 
 The media environment is now separated from the primary infrastructure services.
 
+'''text
 pve1
 │
 ├── services01
