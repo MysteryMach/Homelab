@@ -29,10 +29,11 @@ Current network:
 
 Proxmox currently hosts the following services:
 
-Host	Type	Purpose
-services01	VM	Infrastructure services
-arr01	LXC	Media management
-media01	VM	Media server
+| Host | Type | Purpose |
+| --- | --- | --- |
+| services01 | VM | Infrastructure services |
+| arr01 | LXC | Media management |
+| media01 | VM | Media server |
 
 ⸻
 
