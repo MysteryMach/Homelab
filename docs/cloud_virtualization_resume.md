@@ -20,10 +20,16 @@ Result-driven Technical Professional and Military Veteran with over a decade of 
 *   **Established localized disaster recovery infrastructure**, leveraging ZFS snapshots and automated offsite backup routines to achieve defined recovery time objectives (RTO).
 
 ## PROFESSIONAL EXPERIENCE
-### Lead Test Engineer / Systems Specialist | DLH Corp | 2026 – Present
+### Test Engineer / Systems Specialist | DLH Corp | 2026 – Present
 *   Execute rigorous functional and performance testing on enterprise-scale hardware and software integrations within tightly controlled, closed-network environments.
 *   Analyze complex technical specifications to design comprehensive test matrices, uncovering critical system regressions and validating performance capacity under maximum load.
 *   Collaborate daily with cross-functional engineering squads using Agile frameworks to coordinate system builds, troubleshoot integration blockers, and accelerate deployment schedules.
+
+### Test Engineer / Systems Specialist | Scientific Research Corporation (SRC) | 2024 – 2025
+*   Performed functional, integration, and systems-level testing of complex defense and government technology solutions, validating system behavior against technical requirements and operational objectives.
+*   Analyzed test results, system behavior, and technical documentation to identify defects, isolate integration issues, and support corrective actions across hardware and software environments.
+*   Collaborated with engineering, development, and program teams to troubleshoot system-level issues, coordinate test activities, and communicate technical findings throughout the development and deployment lifecycle.
+*   Executed structured test procedures in controlled environments, documenting results and maintaining traceability between requirements, test cases, defects, and system performance.
 
 ### Cryptologic Technical Specialist / Systems Operator | US Navy | 2014 – 2024
 *   Managed and secured mission-critical, multi-million dollar electronic and network systems in high-tempo, distributed operating environments.
