@@ -13,7 +13,7 @@ Current Hardware
     * 64 GB RAM
     * Samsung 990 EVO Plus 1 TB NVMe
     * WD 2 TB external storage
-    * Terramaster D4 320
+* Terramaster D4 320
 
 ⸻
 
