@@ -13,6 +13,7 @@ Current Hardware
     * 64 GB RAM
     * Samsung 990 EVO Plus 1 TB NVMe
     * WD 2 TB external storage
+    * Terramaster D4 320
 
 ⸻
 
@@ -47,6 +48,8 @@ Current services include:
 * Portainer
 * Homarr
 * Pi-hole
+* Caddy
+* n8n
 
 ⸻
 
@@ -97,7 +100,6 @@ Planned Storage Expansion
 
 Future plans include:
 
-* TerraMaster NAS
 * Dedicated backup storage
 * Reworking the WD 2 TB drive as a backup/secondary storage device
 
@@ -149,7 +151,6 @@ In Progress
 
 Future
 
-* TerraMaster NAS
 * Backup architecture
 * Repurpose WD 2 TB drive for backup
 * Improve monitoring
